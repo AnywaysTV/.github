@@ -1,4 +1,4 @@
-![Anyways](https://raw.githubusercontent.com/anywaystv/.github/main/profile/banneranywaysgh.png)
+![Anyways](https://raw.githubusercontent.com/anywaystv/.github/main/profile/anywaysbanner.png)
 
 Anyways brings your Twitch, YouTube and Kick stats into one place. See who's watching, what they stay for, and how your community grows.
 
